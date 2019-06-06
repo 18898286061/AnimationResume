@@ -51,3 +51,19 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.2)
   }
 }
+
+
+.markdown-body {
+  font-size: 14px !important;
+  position: relative;
+}
+
+#avatar {
+  position: absolute;
+  top: 80px;
+  right: 30px;
+  width: 110px;
+  height: 140px;
+  background: url("../images/avatar.gif") no-repeat center;
+  background-size: cover;
+}
