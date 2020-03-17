@@ -106,7 +106,7 @@ React
 
 Nodejs & MongoDB
   * 有过使用 Expess 框架开发招聘WebApp的后端部分
-  * 使用 MongDB 数据库作为 招聘WebApp 的数据存储
+  * 了解MongoDB，使用 MongDB 数据库作为 招聘WebApp 的数据存储
 
 Webpack
   * 使用过 Webpack 打包项目的经验
@@ -115,8 +115,8 @@ Webpack
 - 简历生成器
   * 关键词：JavaScript、CSS3、Markdown
   * 项目描述：该项目实现了Markdown简历的制作过程。原生JS编写、 CSS3实现过渡、动画、阴影和 Flex 布局等
-  * 源码链接：
-  * 预览链接：
+  * 源码链接：https://github.com/18898286061/AnimationResume
+  * 预览链接：https://18898286061.github.io/AnimationResume/
 
 - 涂鸦画板
 
