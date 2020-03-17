@@ -12,7 +12,7 @@
   * 熟练使用原生 `JavaScript` 操作 `Dom` 、并且可以根据业务的特殊场景处理一些特殊的需求（例如：`防抖`、`节流`、`闭包`、`原型`）
   * `ES6、ES7` 的语法经常使用到现有的项目当中、让JS的写法更加优雅、易读，例如：使用`Promise`、`async await` 执行异步操作，使用 `解构语法` 等
 
-* **HTML &  CSS**
+* **HTML & CSS**
   * 掌握 HTML 语义化标签 如 `canvas`、`nav` ，同时常使用 `WebStorage API` 用做本地缓存
   * 掌握 `CSS3过渡以及动画`、`Flex`、`Grid`布局、`媒体查询`等响应式设计常用技术
   * 能够使用 `Scss`、`Less` 此类动态样式语言让书写样式更高效
@@ -54,8 +54,8 @@
 - **智慧商圈（H5）&& 海岛生活（H5、小程序、APP）**
   * 关键词：`Uni-App`、`跨端开发`
   * 预览链接：
-    * 海岛生活： ![海岛生活二维码.png](https://kaikai-bloga.oss-cn-beijing.aliyuncs.com/markdowmImg/%E6%B5%B7%E5%B2%9B%E7%94%9F%E6%B4%BB%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-    *智慧商圈：![智慧商圈_二维码.png](https://kaikai-bloga.oss-cn-beijing.aliyuncs.com/markdowmImg/%E6%99%BA%E6%85%A7%E5%95%86%E5%9C%88_%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+    * 海岛生活：![海岛生活二维码.png](https://kaikai-bloga.oss-cn-beijing.aliyuncs.com/markdowmImg/%E6%B5%B7%E5%B2%9B%E7%94%9F%E6%B4%BB%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+    * 智慧商圈：![智慧商圈_二维码.png](https://kaikai-bloga.oss-cn-beijing.aliyuncs.com/markdowmImg/%E6%99%BA%E6%85%A7%E5%95%86%E5%9C%88_%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
   * 项目描述：
     * 两个 `Wap应用` 均是使用Uni-app开发的电商客户端
     * 应用中包含了购物车、订单操作、多店铺下单等常见电商所拥有功能
